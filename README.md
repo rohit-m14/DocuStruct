@@ -2,7 +2,7 @@
 
 **DocuStruct** is a Streamlit web app for extracting structured fields from documents (PDF or PNG). The app lets you configure fields to extract (forms or receipts), uploads a document, and uses a Google GenAI model to parse the document and return JSON/CSV results.
 
-> Files included: `app.py` (Streamlit app), `Approach2.png` (pipeline/diagram, optional), and project assets such as `Logo_wordmark.png` if present.
+> Files included: `app.py` (Streamlit app), and project assets such as `Logo_wordmark.png` if present.
 
 ---
 
