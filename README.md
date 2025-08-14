@@ -17,7 +17,7 @@ DocuStruct provides a small GUI to:
 
 The app dynamically builds a Pydantic model from user-provided fields and then calls the GenAI `generate_content` endpoint with a JSON response schema so the returned content is machine-parsable.
 
-The repository includes a diagram `Approach2.png` that illustrates the conceptual pipeline (preprocessing → augmentation → embedding/indexing → ranking). For this Streamlit app, the key steps are: upload → schema configuration → call GenAI → show results → export.
+For this Streamlit app, the key steps are: upload → schema configuration → call GenAI → show results → export.
 
 ---
 
@@ -121,10 +121,8 @@ This will start a local Streamlit server and open a browser UI. Steps inside the
 DocuStruct/
 ├─ app.py
 ├─ Logo_wordmark.png          # optional
-├─ Approach2.png              # diagram (optional)
 ├─ requirements.txt
 ├─ README.md
-├─ .gitignore
 └─ data/                      # for local datasets/artifacts (not checked in)
 ```
 
