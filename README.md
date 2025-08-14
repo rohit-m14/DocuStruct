@@ -154,10 +154,4 @@ If you plan to expand this project, consider:
 
 ---
 
-## License
-
-Add a LICENSE file (e.g., MIT) to make the repository open-source-friendly. If you want, I can add a recommended `LICENSE` file for you.
-
----
-
 If you'd like, I can write this `README.md` into the project folder and also create a `.gitignore` tailored for Python/Streamlit projects. Would you like me to write those files now?
