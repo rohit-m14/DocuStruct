@@ -151,7 +151,3 @@ If you plan to expand this project, consider:
 - Packaging extraction code into testable modules (separate logic from UI).
 - Adding support for more file types (JPEG, TIFF) and OCR fallback for scanned images.
 - Adding retries & better error handling around the GenAI API calls.
-
----
-
-If you'd like, I can write this `README.md` into the project folder and also create a `.gitignore` tailored for Python/Streamlit projects. Would you like me to write those files now?
